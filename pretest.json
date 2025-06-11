@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A bond in which an atom contributes two electrons is:",
+      "answers": {
+        "a": "Polar covalent bond",
+        "b": "A coordinate covalent bond",
+        "c": "An ionic bond",
+        "d": "Non polar covalent bond"
+      },
+      "explanations": {
+        "a": "Explanation for polar covalent bond",
+        "b": "Explanation for coordinate covalent bond",
+        "c": "Explanation for ionic bond",
+        "d": "Explanation for non polar covalent bond"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The maximum number of unpaired electrons in an octahedral complex of a transition metal ion is:",
+      "answers": {
+        "a": "3",
+        "b": "5",
+        "c": "4",
+        "d": "1"
+      },
+      "explanations": {
+        "a": "Explanation for 3",
+        "b": "Explanation for 5",
+        "c": "Explanation for 4",
+        "d": "Explanation for 1"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    }
+  ]
+}
