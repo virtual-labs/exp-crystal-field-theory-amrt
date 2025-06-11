@@ -2,38 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the coordination number of Cobalt in the complex [Co(en)₂Cl₂]Br₂?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "4",
+        "b": "5",
+        "c": "2",
+        "d": "6"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation for 4",
+        "b": "Explanation for 5",
+        "c": "Explanation for 2",
+        "d": "Explanation for 6"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which of the following is a bidentate ligand?",
+      "answers": {
+        "a": "Ammonia",
+        "b": "Oxalate",
+        "c": "Bromide",
+        "d": "Cyanide"
+      },
+      "explanations": {
+        "a": "Explanation for ammonia",
+        "b": "Explanation for oxalate",
+        "c": "Explanation for bromide",
+        "d": "Explanation for cyanide"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The formula for Pentaamminechloroplatinum(IV) bromide is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "[Pt(NH₃)₅Cl]Br₃",
+        "b": "[Pt(NH₃)₅Br₃]Cl",
+        "c": "[Pt(NH₃)₅Br₃]Cl",
+        "d": "[(NH₃)₅PtCl]Br₃"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation for [Pt(NH₃)₅Cl]Br₃",
+        "b": "Explanation for [Pt(NH₃)₅Br₃]Cl",
+        "c": "Explanation for [Pt(NH₃)₅Br₃]Cl (duplicate)",
+        "d": "Explanation for [(NH₃)₅PtCl]Br₃"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": "advanced"
     }
   ]
 }
