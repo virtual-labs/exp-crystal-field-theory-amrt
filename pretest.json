@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A bond in which an atom contributes two electrons is:",
+      "answers": {
+        "a": "Polar covalent bond",
+        "b": "A coordinate covalent bond",
+        "c": "An ionic bond",
+        "d": "Non polar covalent bond"
+      },
+      "explanations": {
+        "a": "Explanation for polar covalent bond",
+        "b": "Explanation for coordinate covalent bond",
+        "c": "Explanation for ionic bond",
+        "d": "Explanation for non polar covalent bond"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The maximum number of unpaired electrons in an octahedral complex of a transition metal ion is:",
+      "answers": {
+        "a": "3",
+        "b": "5",
+        "c": "4",
+        "d": "1"
+      },
+      "explanations": {
+        "a": "Explanation for 3",
+        "b": "Explanation for 5",
+        "c": "Explanation for 4",
+        "d": "Explanation for 1"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the coordination number of Cobalt in the complex [Co(en)₂Cl₂]Br₂?",
+      "answers": {
+        "a": "4",
+        "b": "5",
+        "c": "2",
+        "d": "6"
+      },
+      "explanations": {
+        "a": "Explanation for 4",
+        "b": "Explanation for 5",
+        "c": "Explanation for 2",
+        "d": "Explanation for 6"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which of the following is a bidentate ligand?",
+      "answers": {
+        "a": "Ammonia",
+        "b": "Oxalate",
+        "c": "Bromide",
+        "d": "Cyanide"
+      },
+      "explanations": {
+        "a": "Explanation for ammonia",
+        "b": "Explanation for oxalate",
+        "c": "Explanation for bromide",
+        "d": "Explanation for cyanide"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The formula for Pentaamminechloroplatinum(IV) bromide is:",
+      "answers": {
+        "a": "[Pt(NH₃)₅Cl]Br₃",
+        "b": "[Pt(NH₃)₅Br₃]Cl",
+        "c": "[Pt(NH₃)₅Br₃]Cl",
+        "d": "[(NH₃)₅PtCl]Br₃"
+      },
+      "explanations": {
+        "a": "Explanation for [Pt(NH₃)₅Cl]Br₃",
+        "b": "Explanation for [Pt(NH₃)₅Br₃]Cl",
+        "c": "Explanation for [Pt(NH₃)₅Br₃]Cl (duplicate)",
+        "d": "Explanation for [(NH₃)₅PtCl]Br₃"
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    }
+  ]
+}
